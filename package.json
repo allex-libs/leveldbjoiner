@@ -1,0 +1,25 @@
+{
+  "name": "allex_leveldbjoinerlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for joining key-value pairs using LevelDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/leveldbjoiner.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "leveldb",
+    "joiner",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/leveldbjoiner/issues"
+  },
+  "homepage": "https://github.com/allex-libs/leveldbjoiner#readme"
+}
